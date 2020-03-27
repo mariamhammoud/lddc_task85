@@ -1,0 +1,1 @@
+from . import res_partner,model_res_settings,res_company
